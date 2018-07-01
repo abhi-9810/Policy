@@ -1,0 +1,31 @@
+[18-Apr-2018 18:24:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarsrivastava/public_html/Policy/index.php on line 7
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'irsciitd16'@'localhost' to database 'internship_irsc' in /home/amarsrivastava/public_html/Policy/index.php on line 7
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 11
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 12
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 15
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 16
+[18-Apr-2018 18:25:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 18
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'irsciitd16'@'localhost' to database 'internship_irsc' in /home/amarsrivastava/public_html/Policy/index.php on line 7
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 11
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 12
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 15
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 16
+[18-Apr-2018 18:26:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 18
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'irsciitd16'@'localhost' to database 'internship_irsc' in /home/amarsrivastava/public_html/Policy/index.php on line 7
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 11
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 12
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/index.php on line 15
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 16
+[18-Apr-2018 18:27:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/index.php on line 18
+[18-Apr-2018 19:02:50 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[18-Apr-2018 19:58:21 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[19-Apr-2018 04:27:00 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[19-Apr-2018 04:27:00 UTC] PHP Warning:  fopen(responses/policy__4.csv): failed to open stream: No such file or directory in /home/amarsrivastava/public_html/Policy/form_view_response.php on line 183
+[28-Apr-2018 10:37:11 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[14-May-2018 17:28:30 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[15-May-2018 04:45:59 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[18-May-2018 08:39:40 UTC] PHP Warning:  fopen(responses/policy_1_21 OR 1=1.csv): failed to open stream: No such file or directory in /home/amarsrivastava/public_html/Policy/form_view_response.php on line 183
+[18-May-2018 08:40:04 UTC] PHP Warning:  fopen(responses/policy_1_21OR1=1.csv): failed to open stream: No such file or directory in /home/amarsrivastava/public_html/Policy/form_view_response.php on line 183
+[15-Jun-2018 04:33:05 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[15-Jun-2018 05:09:57 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12
+[23-Jun-2018 07:15:15 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/session.php on line 12

@@ -1,0 +1,7 @@
+[14-May-2018 16:18:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/index.php on line 16
+[14-May-2018 16:18:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/index.php on line 18
+[14-May-2018 16:19:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/mentor_allocation.php on line 207
+[14-May-2018 16:19:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/mentor_allocation.php on line 216
+[14-May-2018 16:19:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/view_allocate.php on line 198
+[14-May-2018 16:19:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/view_allocate.php on line 247
+[14-May-2018 16:20:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/amarsrivastava/public_html/Policy/Admin/mentor_allocation.php on line 207

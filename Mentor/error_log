@@ -1,0 +1,21 @@
+[13-May-2018 11:11:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 7
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 7
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 11
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 12
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 15
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 16
+[13-May-2018 11:13:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 18
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'irsciitd16'@'localhost' to database 'internship_irsc' in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 7
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 11
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 12
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 15
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 16
+[13-May-2018 11:14:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 18
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'irsciitd16'@'localhost' to database 'internship_irsc' in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 7
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 11
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 12
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 15
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 16
+[13-May-2018 11:14:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/amarsrivastava/public_html/Policy/Mentor/index.php on line 18
+[13-May-2018 11:18:22 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/Mentor/session.php on line 12
+[13-May-2018 20:25:31 UTC] PHP Notice:  Undefined index: login_user in /home/amarsrivastava/public_html/Policy/Mentor/session.php on line 12
